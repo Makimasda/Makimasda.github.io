@@ -99,7 +99,7 @@ window.addEventListener('load',init);
 let textone = document.querySelector('.textone').querySelector('h1');
       let text = document.querySelector('.text').querySelector('h1');
       setTimeout(function(){
-        textone.innerHTML = '今晚，整片星空将为你一人闪烁';
+        textone.innerHTML = '可以的话，祝你早安、午安、晚安';
           textone.style.color = '#E8F9FD';
           textone.style.fontFamily = '楷体'
           text.innerHTML = '';
